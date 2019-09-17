@@ -22,18 +22,29 @@
 </head>
 
 <body>
-  <?php include 'navi.php'; ?> 
-
- <div class="container-fluid" style="margin-bottom: 15px;">
+  <?php include 'navi.php'; ?>
    <div class="row" id="outer-border">
-      <div class="col-xs-8 col-xs-push-2 col-lg-push-3">
-         <img src="bootstrap/img/beach.png" alt="Jack at Beach" 
+      <div class="col-xs-12 col-sm-4">
+        <blockquote class="blockquote-reverse">
+         <p>Software Programmer.<br>
+            Systems Administrator.<br>
+            Builder. Creator. Business Owner.<br>
+            Linux fan. Ham Radio Operator - KM6BOJ.<br> 
+            Dogs, Books, & Computers!</br> 
+            Je parle francais!<br>
+            github.com/rsersh<br>
+            twitter: @RachelRHunt
+         </p>  
+        </blockquote>
+        
+      </div>
+      <div class="col-sm-8 col-sm-push-1">
+         <img src="bootstrap/img/founder.jpg" alt="RTech Founder" 
            class="img-responsive" id="main-img">
       </div>
    </div>
-<?php include 'footer.php'; ?>
 
- </div>
+  <?php include 'footer.php'; ?>
 	
       <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->		
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js">
