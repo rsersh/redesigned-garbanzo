@@ -17,7 +17,7 @@
         <div class="collapse navbar-collapse" id="collapsedNav">
          <ul class="nav nav-tabs nav-justified">
           <li role="presentation"><a href="index.php">Home</a></li>
-          <li role="presentation"><a href="res.php">Resume</a></li>
+          <li role="presentation"><a href="res.php">Tech Experience</a></li>
           <li role="presentation"><a href="about.php">About</a></li>
           <li role="presentation"><a href="proj.php">Projects</a></li>
          </ul>
