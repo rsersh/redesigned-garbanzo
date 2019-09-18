@@ -5,7 +5,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
    
-   <title>Rachel-Tech: About This Site</title>
+   <title>Rachel-Tech: A Little More About Me</title>
 
 	<!-- Bootstrap -->    
 	<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -39,13 +39,12 @@
              Please check it out</a>.</p>
           <p>Most recently, I have written a python web scraper to assist SF Brigade's Data
              Science Working Group. I will post the code on github in a few days.
-        <br> 
+        <br></p> 
          <img src="bootstrap/img/beach.png" alt="Jack at Beach" 
            class="img-responsive" id="main-img">
           <br> 
 
           <div class="col-xs-12 col-md-10 col-lg-10">
-        <br> 
         <p>The image above is of Jack (2004-2017). He was a tremendous friend.</p>
       </div>
 
