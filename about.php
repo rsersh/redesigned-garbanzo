@@ -27,14 +27,24 @@
  <div class="container-fluid" style="margin-bottom: 15px;">
    <div class="row" id="outer-border">
       <div class="col-xs-8 col-xs-push-2 col-lg-push-3">
+          <br><p>I like to spend time exploring new things. For this reason, I have 
+             experience with assembling PCs, as well as troubleshooting and data
+             recovery. I am comfortable working in Linux, Unix, and Windows 
+             environments. </p>
+          <p>Oddly, I am also a licensed Amateur Radio operator, study the French 
+             language, sew, read a lot, and own a registered dog walking business.</p>
+          <p>The current iteration of my website is simple as the focus was on 1)
+             setting up on AWS, and 2) writing a mobile-ready website from the 
+             command line tool with just Bootstrap. <a href="https://www.rachel-tech.com">
+             Please check it out</a>.</p>
+          <p>Most recently, I have written a python web scraper to assist SF Brigade's Data
+             Science Working Group. I will post the code on github in a few days.
+        <br> 
          <img src="bootstrap/img/beach.png" alt="Jack at Beach" 
            class="img-responsive" id="main-img">
           <br> 
 
           <div class="col-xs-12 col-md-10 col-lg-10">
-          <p>Jack wants you to know this website looks simple because it is meant to be simple. It was originally written in 2015 with vi and bootstrap, from the command line, for the challenge and the learning. It is meant to be mobile-ready.</p>
-         <p>Rachel-Tech is hosted on AWS. I just wanted the playground space so I decided to host it there. It is running on an EC2 server running Linux.</p>
-        <p>Recently, this site has been updated. I'm still using vi and bootstrap. In 2020, I plan to launch something newly designed and created with a framework. Please check back January 2020, if you're seriously bored.</p>
         <br> 
         <p>The image above is of Jack (2004-2017). He was a tremendous friend.</p>
       </div>
