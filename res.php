@@ -5,7 +5,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
    
-   <title>Rachel-Tech: Resume</title>
+   <title>Rachel-Tech: Resume - Relevant Tech Experience</title>
 
 	<!-- Bootstrap -->    
 	<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -27,9 +27,13 @@
    <div class="row" id="outer-border" style="background-color: #C9E5E7;">
      <div class="container-fluid" style="margin: 0px 0px 0px 0px; margin: 10px 20px 20px 20px;">
         <p class="lead">
-        Rachel R. Hunt</p>
+        Rachel R. Hunt<br></p>
         <p style="text-align: justify;">
-           <strong>THIS RESUME PAGE IS WILDLY OUT OF DATE. UPDATE COMING 09/19/19. THANKS!</strong> 
+           <strong>I like to solve problems.</strong><br>
+           This doc is currently being updated (as of 09/19).
+           <br>Complete CV Available On Request<br>
+           You can view programs and code I have written here: 
+           <a href="https://github.com/rsersh">rsersh@github</a>
          </p> 
    </div>
     </div>
@@ -42,8 +46,10 @@
             California State University, San Francisco 
         </p>
         <hr>
+
          <p class="white">
-             <strong>Experience with the following:
+             <strong>
+             Experience with the following:
          </p>
          <p>
            <div class="col-xs-6 col-sm-4"> 
@@ -74,6 +80,48 @@
         </div>
      </div>
 
+  <div class="row">
+   <div class="container-fluid" style="padding: 5px 20px 5px 20px;">
+    
+         
+        <div class="col-lg-5 col-lg-push-1">
+          
+           <div class="panel panel-default">
+            <div class="panel-heading" style="background-color: #C9E5E7;">
+              <strong>Systems Administrator</strong><br>
+              School of Dentistry, Learner Success Center
+              University of California, San Francisco, CA<br>
+              July 2017 - March 2018
+            </div>
+            <div class="panel-body">
+             <ul class="rtpanel-list">
+              <li> Pioneered role that provided systems support across the class 
+              schedule and student evaluation tools, as well as secondary support 
+              for the electronic learning and testing environments. </li> 
+              <li> Provided immediate relief to faculty and students by stepping 
+               into ad-hoc role created to fill multiple vacancies.</li> 
+              <li>Removed single-point of failure for the scheduling and evaluation 
+                tools by creating workflow and training documents.</li>
+              <li>Increased new-student orientation satisfaction by developing and
+                managing the School of Dentistry's first electronic student orientation
+                handbook, accessible via mobile and tracked via Google Analytics.</li>
+              <li>Helped students setup laptops and deal with software issues during
+                electronic exams.</li>
+              <li>Improved faculty-department relationships by providing training in
+               common work tools; this also resulted in a decrease in load to the office
+               and empowered the faculty.</li>
+              <li>Worked to reduce number of evaluations asked of students by providing
+               an analysis.</li>
+              <li>Reduced load on department and students during exams by setting up new 
+               department iPads for electronic test taking.
+             </ul>
+            </div>
+          </div>
+
+        </div>
+
+   </div>
+  </div> <!-- end row -->
       
   <div class="row">
    <div class="container-fluid" style="padding: 5px 20px 5px 20px;">
@@ -83,7 +131,7 @@
           
            <div class="panel panel-default">
             <div class="panel-heading" style="background-color: #C9E5E7;">
-              Data Programmer<br>
+              <strong>Data Programmer</strong><br>
               Talisman Systems, San Francisco, CA<br>
               February 2015 - July 2015
             </div>
