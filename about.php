@@ -27,7 +27,7 @@
  <div class="container-fluid" style="margin-bottom: 15px;">
    <div class="row" id="outer-border">
       <div class="col-xs-8 col-xs-push-2 col-lg-push-3">
-          <br><p>I like to spend time exploring new things. For this reason, I have 
+          <p>I like to spend time exploring new things. For this reason, I have 
              experience with assembling PCs, as well as troubleshooting and data
              recovery. I am comfortable working in Linux, Unix, and Windows 
              environments. </p>
@@ -35,11 +35,11 @@
              language, sew, read a lot, and own a registered dog walking business.</p>
           <p>The current iteration of my website is simple as the focus was on 1)
              setting up on AWS, and 2) writing a mobile-ready website from the 
-             command line tool with just Bootstrap. <a href="https://www.rachel-tech.com">
+             command line tool with just Bootstrap. <a href="https://github.com/rsersh">
              Please check it out</a>.</p>
           <p>Most recently, I have written a python web scraper to assist SF Brigade's Data
              Science Working Group. I will post the code on github in a few days.
-        <br></p> 
+        <br><br></p> 
          <img src="bootstrap/img/beach.png" alt="Jack at Beach" 
            class="img-responsive" id="main-img">
           <br> 

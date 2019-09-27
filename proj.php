@@ -25,7 +25,7 @@
   <?php include 'navi.php'; ?>
    <div class="row" id="outer-border">
       <div class="col-xs-2 col-sm-3"></div>
-      <div class="col-xs-10">
+      <div class="col-xs-8">
         <p>
           The links on this page point to personal projects in various states of development.
         </p>
@@ -34,11 +34,11 @@
    </div>
    <div class="row" id="outer-border">
       <div class="col-xs-2 col-sm-3"></div>
-      <div class="col-sm-8 col-sm-push-1">
-          <p>This website looks simple because it is meant to be simple. It was originally written in 2015 with vi and bootstrap, from the command line, for the challenge and the learning. It is meant to be mobile-ready.<br>
-         Rachel-Tech is hosted on AWS. I just wanted the portfolio/playground space so I decided to host it there. It is running on an EC2 server running Linux.<br>
+      <div class="col-sm-8">
+          <p>This website looks simple because it is meant to be simple. It was originally written in 2015 with vi and bootstrap, from the command line, for the challenge and the learning. It is meant to be mobile-ready.</p>
+         Rachel-Tech is hosted on AWS. I just wanted the portfolio/playground space so I decided to host it there. It is running on an EC2 server running Linux.</p>
         Recently, this site has been updated. I'm still using vi and bootstrap. In 2020, I plan to launch something newly designed and created with a framework. Please check back January 2020, if you're seriously bored.</p>
-       <p style="margin-left: 40px">The source is located on github. Please check it out there. <a href="https://github.com/rsersh/">My GitHub</a></p>
+       <p>The source is located on github. Please check it out there. <a href="https://github.com/rsersh/">My GitHub</a></p>
        <p>
         <ul>
          <li><a href="https://github.com/rsersh/purp_redeem">Requisite Interpreter in Java</a></li>
