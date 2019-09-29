@@ -131,7 +131,7 @@
           
            <div class="panel panel-default">
             <div class="panel-heading" style="background-color: #C9E5E7;">
-              <strong>acting Business Analyst</strong><br>
+              <strong>Acting Business Analyst</strong><br>
               School of Dentistry, Learner Success Center
               University of California, San Francisco, CA<br>
               July 2017 - March 2018
