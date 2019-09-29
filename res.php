@@ -95,10 +95,10 @@
             </div>
             <div class="panel-body">
              <ul class="rtpanel-list">
-              <li> Pioneered role that provided systems support across the class 
+              <li>Pioneered role that provided systems support across the class 
               schedule and student evaluation tools, as well as secondary support 
               for the electronic learning and testing environments. </li> 
-              <li> Provided immediate relief to faculty and students by stepping 
+              <li>Provided immediate relief to faculty and students by stepping 
                into ad-hoc role created to fill multiple vacancies.</li> 
               <li>Removed single-point of failure for the scheduling and evaluation 
                 tools by creating workflow and training documents.</li>
@@ -114,6 +114,43 @@
                an analysis.</li>
               <li>Reduced load on department and students during exams by setting up new 
                department iPads for electronic test taking.
+             </ul>
+            </div>
+          </div>
+
+        </div>
+
+   </div>
+  </div> <!-- end row -->
+  
+  <div class="row">
+   <div class="container-fluid" style="padding: 5px 20px 5px 20px;">
+    
+         
+        <div class="col-lg-5 col-lg-push-1">
+          
+           <div class="panel panel-default">
+            <div class="panel-heading" style="background-color: #C9E5E7;">
+              <strong>acting Business Analyst</strong><br>
+              School of Dentistry, Learner Success Center
+              University of California, San Francisco, CA<br>
+              July 2017 - March 2018
+            </div>
+            <div class="panel-body">
+             <ul class="rtpanel-list">
+              <li>Represented School of Dentistry in development of 
+              university-wide student data aggregate tool using an international 
+              contractor.
+              </li> 
+              <li>Worked with large teams to identify current and future data
+               collection requirements.</li> 
+              <li>Improved tool performance by testing development and production
+               servers against corner cases unique to School of Dentistry.</li>
+              <li>Led with impact by developing and documenting workflow to 
+               accommodate business requirements not implemented in initial
+               rollout.</li>
+              <li>Ensured smooth launch by providing informational and training
+               presentations to department and Dean's office.</li>
              </ul>
             </div>
           </div>
