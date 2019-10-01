@@ -30,8 +30,8 @@
         Rachel R. Hunt<br></p>
         <p style="text-align: justify;">
            <strong>I like to solve problems.</strong><br>
-           This doc is currently being updated (as of 09/19).
-           <br>Complete CV Available On Request<br>
+           This is a living document. 
+           <br><strong>Complete CV Available On Request</strong><br>
            You can view programs and code I have written here: 
            <a href="https://github.com/rsersh">rsersh@github</a>
          </p> 
@@ -151,6 +151,42 @@
                rollout.</li>
               <li>Ensured smooth launch by providing informational and training
                presentations to department and Dean's office.</li>
+             </ul>
+            </div>
+          </div>
+
+        </div>
+
+   </div>
+  </div> <!-- end row -->
+  
+<div class="row">
+   <div class="container-fluid" style="padding: 5px 20px 5px 20px;">
+    
+         
+        <div class="col-lg-5 col-lg-push-1">
+          
+           <div class="panel panel-default">
+            <div class="panel-heading" style="background-color: #C9E5E7;">
+              <strong>Project Policy Analyst</strong><br>
+              School of Dentistry, Learner Success Center
+              University of California, San Francisco, CA<br>
+              December 2016 - June 2017
+            </div>
+            <div class="panel-body">
+             <ul class="rtpanel-list">
+               <li>Eliminated blocks preventing effective and timely 
+                  commununication between Faculty and the Dean of Faculty 
+                  Development.</li>
+               <li>Eased burden from department vacancies by updating 
+                  informatin in student forums.</li>
+               <li>Improved faculty experience in ranking students for
+                  honor society membership by implementing several mobile-ready
+                  surveys that utilized student faces to assist with voting.</li>
+               <li>Cut operating expenses to Dean's office by creating source
+                  files for docs previously managed by a third-party.</li>
+               <li>Digitized management of the honor society's membership,
+                  annual meeting, scholarship and new member awards.
              </ul>
             </div>
           </div>
