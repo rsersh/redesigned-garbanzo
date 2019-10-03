@@ -11,6 +11,7 @@
 	<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
 	<link href="bootstrap/css/rt-style.css" rel="stylesheet">
 
+
 	
 	<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -31,8 +32,10 @@
             Builder. Creator. Business Owner.<br>
             Linux fan. Ham Radio Operator - KM6BOJ.<br> 
             Dogs, Books, & Computers!</br> 
-            Je parle francais!<br>
-            github.com/rsersh<br>
+            Je parle fran&#xE7;ais!<br>
+            <a href="https://github.com/rsersh">
+            github.com/rsersh
+            </a><br>
             twitter: @RachelRHunt
          </p>  
         </blockquote>
