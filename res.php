@@ -210,19 +210,19 @@
             </div>
             <div class="panel-body">
              <ul class="rtpanel-list">
-              <li> Responsible for data verification project that included managing a call
-                   center relationship, one in-house employee, and one remote contractor
-                   to confirm doctor infromation for client compliance with Workers'
-                   Compensation laws. </li> 
-              <li> Processed, spot-checked, and repackaged verified data for integration 
-                   into larger, company data structure.</li> 
-              <li> Wrote necessary queries in PSQL and FoxPro.  Wrote a Python web scraper 
-                   that crawled the call center portal to pull information otherwise not 
-                   provided.</li>
+              <li> Added immediate value by adapting quickly to workflow, including
+                   writing in legacy FoxPro to query PSQL.</li>  
+              <li> Increased customer satisfaction and data reliability by leading the 
+                   data verification product team.</li> 
+              <li> Managed team, internal and external, to ensure high-value
+                   product for top-tier customers.</li> 
+              <li> Increased detail of call-center monitoring by writing a Python web 
+                   scraper that crawled the portal to extract information otherwise not 
+                   provided in reports.</li> 
               <li> Assisted Client Representatives and Data Analyst team with requests for 
                    various data reports and changes to existing client websites.</li>
-              <li> Researched various technologies to assist with a project expansion to 
-                   include data verification via fax technology.</li>
+              <li> Presented solution for improving and expanding data verification 
+                   project.</li>
              </ul>
             </div>
           </div>
